@@ -19,4 +19,4 @@ We are very proud of the fact that we were able to create a very basic translato
 ## :building_construction: What's next for How Sign
 The next goal for How Sign is to try and make the reverse version of the translator. We will be attempting to allow users to input a video of them signing and turn it into a written translation so they could communicate back to the other person.
 
-Group Members: [Kyle Otero](https://github.com/kyleotero), [Dvir Malka](https://github.com/DvirMalka02), [Sohban Malik](https://github.com/sohbanm), [Mickey Bylasky](https://github.com/mickeybyalsky)
+Group Members: [Sohban Malik](https://github.com/sohbanm), [Kyle Otero](https://github.com/kyleotero), [Dvir Malka](https://github.com/DvirMalka02), [Mickey Bylasky](https://github.com/mickeybyalsky)
